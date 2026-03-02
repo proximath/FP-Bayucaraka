@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/crane/crane.egg-info/PKG-INFO
+../../build/crane/crane.egg-info/SOURCES.txt
+../../build/crane/crane.egg-info/dependency_links.txt
+../../build/crane/crane.egg-info/entry_points.txt
+../../build/crane/crane.egg-info/requires.txt
+../../build/crane/crane.egg-info/top_level.txt
+../../build/crane/crane.egg-info/zip-safe
+crane/__init__.py
+resource/crane
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

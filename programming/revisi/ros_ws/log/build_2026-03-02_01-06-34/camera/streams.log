@@ -1,0 +1,26 @@
+[0.594s] Invoking command in '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/src/camera': PYTHONPATH=/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera build --build-base /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/build install --record /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/install.log --single-version-externally-managed install_data
+[0.768s] running egg_info
+[0.779s] writing ../../build/camera/camera.egg-info/PKG-INFO
+[0.779s] writing dependency_links to ../../build/camera/camera.egg-info/dependency_links.txt
+[0.780s] writing entry points to ../../build/camera/camera.egg-info/entry_points.txt
+[0.780s] writing requirements to ../../build/camera/camera.egg-info/requires.txt
+[0.780s] writing top-level names to ../../build/camera/camera.egg-info/top_level.txt
+[0.803s] reading manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[0.804s] writing manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[0.804s] running build
+[0.804s] running build_py
+[0.804s] copying camera/__init__.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/build/lib/camera
+[0.805s] running install
+[0.807s] running install_lib
+[0.819s] copying /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/build/lib/camera/__init__.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages/camera
+[0.819s] byte-compiling /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages/camera/__init__.py to __init__.cpython-310.pyc
+[0.821s] running install_data
+[0.821s] copying resource/camera -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/share/ament_index/resource_index/packages
+[0.822s] copying package.xml -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/share/camera
+[0.822s] running install_egg_info
+[0.834s] removing '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info' (and everything under it)
+[0.834s] Copying ../../build/camera/camera.egg-info to /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info
+[0.835s] running install_scripts
+[0.859s] Installing camera script to /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/camera
+[0.859s] writing list of installed files to '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/install.log'
+[0.874s] Invoked command in '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/src/camera' returned '0': PYTHONPATH=/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera build --build-base /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/build install --record /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/install.log --single-version-externally-managed install_data

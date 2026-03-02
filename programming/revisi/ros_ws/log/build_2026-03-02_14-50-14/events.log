@@ -1,0 +1,244 @@
+[0.000000] (-) TimerEvent: {}
+[0.001663] (camera) JobQueued: {'identifier': 'camera', 'dependencies': OrderedDict()}
+[0.001699] (crane) JobQueued: {'identifier': 'crane', 'dependencies': OrderedDict()}
+[0.001712] (camera) JobStarted: {'identifier': 'camera'}
+[0.024064] (crane) JobStarted: {'identifier': 'crane'}
+[0.098826] (-) TimerEvent: {}
+[0.205563] (-) TimerEvent: {}
+[0.310789] (-) TimerEvent: {}
+[0.417429] (-) TimerEvent: {}
+[0.522798] (-) TimerEvent: {}
+[0.626425] (-) TimerEvent: {}
+[0.734528] (-) TimerEvent: {}
+[0.843282] (-) TimerEvent: {}
+[0.953879] (-) TimerEvent: {}
+[1.067828] (-) TimerEvent: {}
+[1.178038] (-) TimerEvent: {}
+[1.291873] (-) TimerEvent: {}
+[1.407060] (-) TimerEvent: {}
+[1.515997] (-) TimerEvent: {}
+[1.632488] (-) TimerEvent: {}
+[1.751494] (-) TimerEvent: {}
+[1.861908] (-) TimerEvent: {}
+[1.969323] (-) TimerEvent: {}
+[2.078049] (-) TimerEvent: {}
+[2.183598] (-) TimerEvent: {}
+[2.290281] (-) TimerEvent: {}
+[2.398493] (-) TimerEvent: {}
+[2.508230] (-) TimerEvent: {}
+[2.617572] (-) TimerEvent: {}
+[2.724188] (-) TimerEvent: {}
+[2.833665] (-) TimerEvent: {}
+[2.943434] (-) TimerEvent: {}
+[3.057369] (-) TimerEvent: {}
+[3.165019] (-) TimerEvent: {}
+[3.272380] (-) TimerEvent: {}
+[3.382667] (-) TimerEvent: {}
+[3.498400] (-) TimerEvent: {}
+[3.615580] (-) TimerEvent: {}
+[3.728921] (-) TimerEvent: {}
+[3.842254] (-) TimerEvent: {}
+[3.951922] (-) TimerEvent: {}
+[4.064601] (-) TimerEvent: {}
+[4.169528] (-) TimerEvent: {}
+[4.273954] (-) TimerEvent: {}
+[4.386018] (-) TimerEvent: {}
+[4.496592] (-) TimerEvent: {}
+[4.604507] (-) TimerEvent: {}
+[4.719691] (-) TimerEvent: {}
+[4.829311] (-) TimerEvent: {}
+[4.938917] (-) TimerEvent: {}
+[5.043770] (-) TimerEvent: {}
+[5.154758] (-) TimerEvent: {}
+[5.279749] (-) TimerEvent: {}
+[5.400820] (-) TimerEvent: {}
+[5.517403] (-) TimerEvent: {}
+[5.630910] (-) TimerEvent: {}
+[5.744834] (-) TimerEvent: {}
+[5.861655] (-) TimerEvent: {}
+[5.985055] (-) TimerEvent: {}
+[6.125149] (-) TimerEvent: {}
+[6.251044] (-) TimerEvent: {}
+[6.379892] (-) TimerEvent: {}
+[6.493997] (-) TimerEvent: {}
+[6.611230] (-) TimerEvent: {}
+[6.722973] (-) TimerEvent: {}
+[6.835634] (-) TimerEvent: {}
+[6.954166] (-) TimerEvent: {}
+[7.073139] (-) TimerEvent: {}
+[7.197734] (-) TimerEvent: {}
+[7.319961] (-) TimerEvent: {}
+[7.442886] (-) TimerEvent: {}
+[7.563234] (-) TimerEvent: {}
+[7.689466] (-) TimerEvent: {}
+[7.799466] (-) TimerEvent: {}
+[7.903954] (-) TimerEvent: {}
+[8.010918] (-) TimerEvent: {}
+[8.118922] (-) TimerEvent: {}
+[8.226021] (-) TimerEvent: {}
+[8.341385] (-) TimerEvent: {}
+[8.458338] (-) TimerEvent: {}
+[8.581541] (-) TimerEvent: {}
+[8.704635] (-) TimerEvent: {}
+[8.830874] (-) TimerEvent: {}
+[8.946321] (-) TimerEvent: {}
+[9.067712] (-) TimerEvent: {}
+[9.185542] (-) TimerEvent: {}
+[9.308504] (-) TimerEvent: {}
+[9.427700] (-) TimerEvent: {}
+[9.553320] (-) TimerEvent: {}
+[9.668926] (-) TimerEvent: {}
+[9.782366] (-) TimerEvent: {}
+[9.919499] (-) TimerEvent: {}
+[10.056732] (-) TimerEvent: {}
+[10.177117] (-) TimerEvent: {}
+[10.292446] (-) TimerEvent: {}
+[10.405643] (-) TimerEvent: {}
+[10.521882] (-) TimerEvent: {}
+[10.635645] (-) TimerEvent: {}
+[10.749904] (-) TimerEvent: {}
+[10.869264] (-) TimerEvent: {}
+[10.985225] (-) TimerEvent: {}
+[11.112482] (-) TimerEvent: {}
+[11.242120] (-) TimerEvent: {}
+[11.360906] (-) TimerEvent: {}
+[11.482253] (-) TimerEvent: {}
+[11.597358] (-) TimerEvent: {}
+[11.706918] (-) TimerEvent: {}
+[11.818440] (-) TimerEvent: {}
+[11.932958] (-) TimerEvent: {}
+[12.052385] (-) TimerEvent: {}
+[12.170719] (-) TimerEvent: {}
+[12.286300] (-) TimerEvent: {}
+[12.399289] (-) TimerEvent: {}
+[12.518603] (-) TimerEvent: {}
+[12.635886] (-) TimerEvent: {}
+[12.743924] (-) TimerEvent: {}
+[12.857053] (-) TimerEvent: {}
+[12.868965] (crane) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/crane', 'build', '--build-base', '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/crane/build', 'install', '--record', '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/crane/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/src/crane', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'PYTHON_BASIC_REPL': '1', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'putra-adnyana', 'LC_TIME': 'id_ID.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'GIT_ASKPASS': '/usr/share/code/resources/app/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/putra-adnyana', 'CHROME_DESKTOP': 'code.desktop', 'OLDPWD': '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka', 'TERM_PROGRAM_VERSION': '1.109.3', 'DESKTOP_SESSION': 'ubuntu', 'NVM_BIN': '/home/putra-adnyana/.nvm/versions/node/v25.3.0/bin', 'NVM_INC': '/home/putra-adnyana/.nvm/versions/node/v25.3.0/include/node', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/code.desktop', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'VSCODE_GIT_ASKPASS_MAIN': '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js', 'LC_MONETARY': 'id_ID.UTF-8', 'VSCODE_GIT_ASKPASS_NODE': '/usr/share/code/code', 'MANAGERPID': '1606', 'PYDEVD_DISABLE_FILE_VALIDATION': '1', 'SYSTEMD_EXEC_PID': '1784', 'BUNDLED_DEBUGPY_PATH': '/home/putra-adnyana/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy', 'IM_CONFIG_CHECK_ENV': '1', 'VSCODE_PYTHON_AUTOACTIVATE_GUARD': '1', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '4186', 'NVM_DIR': '/home/putra-adnyana/.nvm', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'humble', 'LOGNAME': 'putra-adnyana', 'JOURNAL_STREAM': '8:5891', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'putra-adnyana', 'TERM': 'xterm-256color', 'GAZEBO_MODEL_PATH': '/home/putra-adnyana/ardupilot_gazebo/models', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'FC_FONTATIONS': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/putra-adnyana/.config/Code/User/globalStorage/github.copilot-chat/debugCommand:/home/putra-adnyana/.config/Code/User/globalStorage/github.copilot-chat/copilotCli:/usr/local/go/bin:/usr/lib/ccache:/home/putra-adnyana/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/bin:/home/putra-adnyana/.local/share/pnpm:/opt/ros/humble/bin:/home/putra-adnyana/.nvm/versions/node/v25.3.0/bin:/usr/local/go/bin:/usr/lib/ccache:/home/putra-adnyana/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/putra-adnyana/.cargo/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/opt/nvim-linux-x86_64/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/scripts/noConfigScripts:/opt/nvim-linux-x86_64/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/.local/bin', 'SESSION_MANAGER': 'local/HYPE-7-AMD-X8:@/tmp/.ICE-unix/1753,unix/HYPE-7-AMD-X8:/tmp/.ICE-unix/1753', 'INVOCATION_ID': '1426d38983ac472f8a4dcd64d85367c2', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'id_ID.UTF-8', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'GDK_BACKEND': 'wayland', 'DISPLAY': ':0', 'VSCODE_DEBUGPY_ADAPTER_ENDPOINTS': '/home/putra-adnyana/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/.noConfigDebugAdapterEndpoints/endpoint-6d14dfe3131d4e11.txt', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'PYTHONSTARTUP': '/home/putra-adnyana/.config/Code/User/workspaceStorage/c911cdccf00403b48d26e2c7edf3945e/ms-python.python/pythonrc.py', 'LC_TELEPHONE': 'id_ID.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.E2KXL3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-4c11454604.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'id_ID.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'id_ID.UTF-8', 'GAZEBO_RESOURCE_PATH': '/home/putra-adnyana/ardupilot_gazebo/worlds:/home/putra-adnyana/ardupilot_gazebo/worlds:', 'GJS_DEBUG_OUTPUT': 'stderr', 'LC_IDENTIFICATION': 'id_ID.UTF-8', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/crane', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'NVM_CD_FLAGS': '', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/crane/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/crane/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'id_ID.UTF-8', 'LC_PAPER': 'id_ID.UTF-8', 'COLCON': '1', 'PNPM_HOME': '/home/putra-adnyana/.local/share/pnpm'}, 'shell': False}
+[12.892475] (camera) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/camera', 'build', '--build-base', '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/build', 'install', '--record', '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/src/camera', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'PYTHON_BASIC_REPL': '1', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'putra-adnyana', 'LC_TIME': 'id_ID.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'GIT_ASKPASS': '/usr/share/code/resources/app/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/putra-adnyana', 'CHROME_DESKTOP': 'code.desktop', 'OLDPWD': '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka', 'TERM_PROGRAM_VERSION': '1.109.3', 'DESKTOP_SESSION': 'ubuntu', 'NVM_BIN': '/home/putra-adnyana/.nvm/versions/node/v25.3.0/bin', 'NVM_INC': '/home/putra-adnyana/.nvm/versions/node/v25.3.0/include/node', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/code.desktop', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'VSCODE_GIT_ASKPASS_MAIN': '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js', 'LC_MONETARY': 'id_ID.UTF-8', 'VSCODE_GIT_ASKPASS_NODE': '/usr/share/code/code', 'MANAGERPID': '1606', 'PYDEVD_DISABLE_FILE_VALIDATION': '1', 'SYSTEMD_EXEC_PID': '1784', 'BUNDLED_DEBUGPY_PATH': '/home/putra-adnyana/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy', 'IM_CONFIG_CHECK_ENV': '1', 'VSCODE_PYTHON_AUTOACTIVATE_GUARD': '1', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '4186', 'NVM_DIR': '/home/putra-adnyana/.nvm', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'humble', 'LOGNAME': 'putra-adnyana', 'JOURNAL_STREAM': '8:5891', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'putra-adnyana', 'TERM': 'xterm-256color', 'GAZEBO_MODEL_PATH': '/home/putra-adnyana/ardupilot_gazebo/models', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'FC_FONTATIONS': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/putra-adnyana/.config/Code/User/globalStorage/github.copilot-chat/debugCommand:/home/putra-adnyana/.config/Code/User/globalStorage/github.copilot-chat/copilotCli:/usr/local/go/bin:/usr/lib/ccache:/home/putra-adnyana/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/bin:/home/putra-adnyana/.local/share/pnpm:/opt/ros/humble/bin:/home/putra-adnyana/.nvm/versions/node/v25.3.0/bin:/usr/local/go/bin:/usr/lib/ccache:/home/putra-adnyana/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/putra-adnyana/.cargo/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/opt/nvim-linux-x86_64/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/scripts/noConfigScripts:/opt/nvim-linux-x86_64/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/.local/bin', 'SESSION_MANAGER': 'local/HYPE-7-AMD-X8:@/tmp/.ICE-unix/1753,unix/HYPE-7-AMD-X8:/tmp/.ICE-unix/1753', 'INVOCATION_ID': '1426d38983ac472f8a4dcd64d85367c2', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'id_ID.UTF-8', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'GDK_BACKEND': 'wayland', 'DISPLAY': ':0', 'VSCODE_DEBUGPY_ADAPTER_ENDPOINTS': '/home/putra-adnyana/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/.noConfigDebugAdapterEndpoints/endpoint-6d14dfe3131d4e11.txt', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'PYTHONSTARTUP': '/home/putra-adnyana/.config/Code/User/workspaceStorage/c911cdccf00403b48d26e2c7edf3945e/ms-python.python/pythonrc.py', 'LC_TELEPHONE': 'id_ID.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.E2KXL3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-4c11454604.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'id_ID.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'id_ID.UTF-8', 'GAZEBO_RESOURCE_PATH': '/home/putra-adnyana/ardupilot_gazebo/worlds:/home/putra-adnyana/ardupilot_gazebo/worlds:', 'GJS_DEBUG_OUTPUT': 'stderr', 'LC_IDENTIFICATION': 'id_ID.UTF-8', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'NVM_CD_FLAGS': '', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'id_ID.UTF-8', 'LC_PAPER': 'id_ID.UTF-8', 'COLCON': '1', 'PNPM_HOME': '/home/putra-adnyana/.local/share/pnpm'}, 'shell': False}
+[12.957112] (-) TimerEvent: {}
+[13.063619] (-) TimerEvent: {}
+[13.168780] (-) TimerEvent: {}
+[13.275378] (-) TimerEvent: {}
+[13.387798] (-) TimerEvent: {}
+[13.494708] (-) TimerEvent: {}
+[13.602054] (-) TimerEvent: {}
+[13.725885] (-) TimerEvent: {}
+[13.840984] (-) TimerEvent: {}
+[13.961943] (-) TimerEvent: {}
+[14.075275] (-) TimerEvent: {}
+[14.184588] (-) TimerEvent: {}
+[14.301670] (-) TimerEvent: {}
+[14.429745] (-) TimerEvent: {}
+[14.557557] (-) TimerEvent: {}
+[14.684771] (-) TimerEvent: {}
+[15.562970] (-) TimerEvent: {}
+[15.687484] (-) TimerEvent: {}
+[15.798165] (-) TimerEvent: {}
+[15.907910] (-) TimerEvent: {}
+[16.019383] (-) TimerEvent: {}
+[16.131816] (-) TimerEvent: {}
+[16.240551] (-) TimerEvent: {}
+[16.353688] (-) TimerEvent: {}
+[16.466671] (-) TimerEvent: {}
+[16.573988] (-) TimerEvent: {}
+[16.685489] (-) TimerEvent: {}
+[16.792857] (-) TimerEvent: {}
+[16.901292] (-) TimerEvent: {}
+[17.018880] (-) TimerEvent: {}
+[17.139823] (-) TimerEvent: {}
+[17.263385] (-) TimerEvent: {}
+[17.376557] (-) TimerEvent: {}
+[17.490748] (-) TimerEvent: {}
+[17.548858] (camera) StdoutLine: {'line': b'running egg_info\n'}
+[17.552430] (crane) StdoutLine: {'line': b'running egg_info\n'}
+[17.590655] (-) TimerEvent: {}
+[17.710337] (-) TimerEvent: {}
+[17.821838] (-) TimerEvent: {}
+[17.922057] (camera) StdoutLine: {'line': b'writing ../../build/camera/camera.egg-info/PKG-INFO\n'}
+[17.923087] (-) TimerEvent: {}
+[17.925358] (crane) StdoutLine: {'line': b'writing ../../build/crane/crane.egg-info/PKG-INFO\n'}
+[17.925532] (camera) StdoutLine: {'line': b'writing dependency_links to ../../build/camera/camera.egg-info/dependency_links.txt\n'}
+[17.925594] (camera) StdoutLine: {'line': b'writing entry points to ../../build/camera/camera.egg-info/entry_points.txt\n'}
+[17.925651] (camera) StdoutLine: {'line': b'writing requirements to ../../build/camera/camera.egg-info/requires.txt\n'}
+[17.925693] (camera) StdoutLine: {'line': b'writing top-level names to ../../build/camera/camera.egg-info/top_level.txt\n'}
+[17.925740] (crane) StdoutLine: {'line': b'writing dependency_links to ../../build/crane/crane.egg-info/dependency_links.txt\n'}
+[17.925789] (crane) StdoutLine: {'line': b'writing entry points to ../../build/crane/crane.egg-info/entry_points.txt\n'}
+[17.925828] (crane) StdoutLine: {'line': b'writing requirements to ../../build/crane/crane.egg-info/requires.txt\n'}
+[17.925888] (crane) StdoutLine: {'line': b'writing top-level names to ../../build/crane/crane.egg-info/top_level.txt\n'}
+[18.026481] (-) TimerEvent: {}
+[18.143868] (-) TimerEvent: {}
+[18.258566] (-) TimerEvent: {}
+[18.384697] (-) TimerEvent: {}
+[18.514299] (-) TimerEvent: {}
+[18.632701] (-) TimerEvent: {}
+[18.754741] (-) TimerEvent: {}
+[18.871364] (-) TimerEvent: {}
+[18.994684] (-) TimerEvent: {}
+[19.112150] (-) TimerEvent: {}
+[19.127838] (camera) StdoutLine: {'line': b"reading manifest file '../../build/camera/camera.egg-info/SOURCES.txt'\n"}
+[19.132483] (crane) StdoutLine: {'line': b"reading manifest file '../../build/crane/crane.egg-info/SOURCES.txt'\n"}
+[19.139085] (camera) StdoutLine: {'line': b"writing manifest file '../../build/camera/camera.egg-info/SOURCES.txt'\n"}
+[19.139289] (crane) StdoutLine: {'line': b"writing manifest file '../../build/crane/crane.egg-info/SOURCES.txt'\n"}
+[19.139392] (crane) StdoutLine: {'line': b'running build\n'}
+[19.139472] (crane) StdoutLine: {'line': b'running build_py\n'}
+[19.139986] (camera) StdoutLine: {'line': b'running build\n'}
+[19.140144] (camera) StdoutLine: {'line': b'running build_py\n'}
+[19.143454] (camera) StdoutLine: {'line': b'copying camera/__init__.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/build/lib/camera\n'}
+[19.143560] (crane) StdoutLine: {'line': b'copying crane/__init__.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/crane/build/lib/crane\n'}
+[19.146790] (crane) StdoutLine: {'line': b'running install\n'}
+[19.147814] (camera) StdoutLine: {'line': b'running install\n'}
+[19.161223] (camera) StdoutLine: {'line': b'running install_lib\n'}
+[19.161424] (crane) StdoutLine: {'line': b'running install_lib\n'}
+[19.214286] (-) TimerEvent: {}
+[19.335985] (-) TimerEvent: {}
+[19.454157] (-) TimerEvent: {}
+[19.585519] (-) TimerEvent: {}
+[19.708359] (-) TimerEvent: {}
+[19.828180] (-) TimerEvent: {}
+[19.842617] (camera) StdoutLine: {'line': b'copying /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/build/lib/camera/__init__.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages/camera\n'}
+[19.882461] (crane) StdoutLine: {'line': b'running install_data\n'}
+[19.887735] (camera) StdoutLine: {'line': b'byte-compiling /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages/camera/__init__.py to __init__.cpython-310.pyc\n'}
+[19.895698] (camera) StdoutLine: {'line': b'running install_data\n'}
+[19.896511] (crane) StdoutLine: {'line': b'copying resource/crane -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/crane/share/ament_index/resource_index/packages\n'}
+[19.897693] (crane) StdoutLine: {'line': b'copying package.xml -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/crane/share/crane\n'}
+[19.899021] (crane) StdoutLine: {'line': b'running install_egg_info\n'}
+[19.901951] (camera) StdoutLine: {'line': b'copying resource/camera -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/share/ament_index/resource_index/packages\n'}
+[19.903204] (camera) StdoutLine: {'line': b'copying package.xml -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/share/camera\n'}
+[19.905973] (camera) StdoutLine: {'line': b'running install_egg_info\n'}
+[19.930432] (-) TimerEvent: {}
+[20.070206] (-) TimerEvent: {}
+[20.194072] (-) TimerEvent: {}
+[20.317119] (-) TimerEvent: {}
+[20.441269] (-) TimerEvent: {}
+[20.559156] (-) TimerEvent: {}
+[20.675863] (-) TimerEvent: {}
+[20.700190] (camera) StdoutLine: {'line': b"removing '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[20.707364] (crane) StdoutLine: {'line': b"removing '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/crane/lib/python3.10/site-packages/crane-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[20.707728] (crane) StdoutLine: {'line': b'Copying ../../build/crane/crane.egg-info to /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/crane/lib/python3.10/site-packages/crane-0.0.0-py3.10.egg-info\n'}
+[20.708239] (camera) StdoutLine: {'line': b'Copying ../../build/camera/camera.egg-info to /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info\n'}
+[20.712983] (crane) StdoutLine: {'line': b'running install_scripts\n'}
+[20.714305] (camera) StdoutLine: {'line': b'running install_scripts\n'}
+[20.778802] (-) TimerEvent: {}
+[20.895815] (-) TimerEvent: {}
+[21.017282] (-) TimerEvent: {}
+[21.141631] (-) TimerEvent: {}
+[21.261991] (-) TimerEvent: {}
+[21.384608] (-) TimerEvent: {}
+[21.510050] (-) TimerEvent: {}
+[21.633884] (-) TimerEvent: {}
+[21.754588] (-) TimerEvent: {}
+[21.877467] (-) TimerEvent: {}
+[22.001391] (-) TimerEvent: {}
+[22.118315] (-) TimerEvent: {}
+[22.138510] (crane) StdoutLine: {'line': b'Installing crane script to /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/crane/lib/crane\n'}
+[22.143205] (camera) StdoutLine: {'line': b'Installing camera script to /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/install/camera/lib/camera\n'}
+[22.144930] (camera) StdoutLine: {'line': b"writing list of installed files to '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/camera/install.log'\n"}
+[22.145027] (crane) StdoutLine: {'line': b"writing list of installed files to '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/revisi/ros_ws/build/crane/install.log'\n"}
+[22.226712] (-) TimerEvent: {}
+[22.241943] (camera) CommandEnded: {'returncode': 0}
+[22.297641] (camera) JobEnded: {'identifier': 'camera', 'rc': 0}
+[22.298597] (crane) CommandEnded: {'returncode': 0}
+[22.310727] (crane) JobEnded: {'identifier': 'crane', 'rc': 0}
+[22.312340] (-) EventReactorShutdown: {}
