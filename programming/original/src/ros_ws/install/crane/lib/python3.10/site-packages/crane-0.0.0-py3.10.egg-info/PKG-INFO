@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: crane
+Version: 0.0.0
+Summary: Package description
+Maintainer: putra-adnyana
+Maintainer-email: quazitivity556@gmail.com
+License: gnu general public license v3.0
+Requires-Dist: setuptools
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: summary

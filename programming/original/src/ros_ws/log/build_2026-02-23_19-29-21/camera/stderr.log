@@ -1,0 +1,5 @@
+  File "/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/camera/lib/python3.10/site-packages/camera/__init__.py", line 61
+    xx1 = np.maximum(x1[i], x1[order[1:]])        print(transform(out))
+                                                  ^^^^^
+SyntaxError: invalid syntax
+

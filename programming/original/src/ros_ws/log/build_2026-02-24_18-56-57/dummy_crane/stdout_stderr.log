@@ -1,0 +1,20 @@
+running egg_info
+writing ../build/dummy_crane/dummy_crane.egg-info/PKG-INFO
+writing dependency_links to ../build/dummy_crane/dummy_crane.egg-info/dependency_links.txt
+writing requirements to ../build/dummy_crane/dummy_crane.egg-info/requires.txt
+writing top-level names to ../build/dummy_crane/dummy_crane.egg-info/top_level.txt
+reading manifest file '../build/dummy_crane/dummy_crane.egg-info/SOURCES.txt'
+writing manifest file '../build/dummy_crane/dummy_crane.egg-info/SOURCES.txt'
+running build
+running build_py
+copying dummy_crane/__init__.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/dummy_crane/build/lib/dummy_crane
+running install
+running install_lib
+running install_data
+copying resource/dummy_crane -> /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/dummy_crane/share/ament_index/resource_index/packages
+copying package.xml -> /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/dummy_crane/share/dummy_crane
+running install_egg_info
+removing '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/dummy_crane/lib/python3.10/site-packages/dummy_crane-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/dummy_crane/dummy_crane.egg-info to /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/dummy_crane/lib/python3.10/site-packages/dummy_crane-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/dummy_crane/install.log'

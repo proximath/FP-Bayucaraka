@@ -1,0 +1,6 @@
+{
+  "package_name": "crane_interface",
+  "non_idl_tuples": [
+    "/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/src/crane_interface:srv/MoveTo.srv"
+  ]
+}

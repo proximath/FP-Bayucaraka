@@ -1,0 +1,24 @@
+[2.441s] Invoking command in '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/src/crane': PYTHONPATH=/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/crane/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(.venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/crane build --build-base /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane/build install --record /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane/install.log --single-version-externally-managed install_data
+[2.997s] running egg_info
+[3.034s] writing ../../build/crane/crane.egg-info/PKG-INFO
+[3.035s] writing dependency_links to ../../build/crane/crane.egg-info/dependency_links.txt
+[3.036s] writing entry points to ../../build/crane/crane.egg-info/entry_points.txt
+[3.036s] writing requirements to ../../build/crane/crane.egg-info/requires.txt
+[3.036s] writing top-level names to ../../build/crane/crane.egg-info/top_level.txt
+[3.112s] reading manifest file '../../build/crane/crane.egg-info/SOURCES.txt'
+[3.115s] writing manifest file '../../build/crane/crane.egg-info/SOURCES.txt'
+[3.115s] running build
+[3.116s] running build_py
+[3.117s] copying crane/__init__.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane/build/lib/crane
+[3.117s] running install
+[3.126s] running install_lib
+[3.164s] running install_data
+[3.165s] copying resource/crane -> /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/crane/share/ament_index/resource_index/packages
+[3.165s] copying package.xml -> /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/crane/share/crane
+[3.166s] running install_egg_info
+[3.206s] removing '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/crane/lib/python3.10/site-packages/crane-0.0.0-py3.10.egg-info' (and everything under it)
+[3.207s] Copying ../../build/crane/crane.egg-info to /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/crane/lib/python3.10/site-packages/crane-0.0.0-py3.10.egg-info
+[3.210s] running install_scripts
+[3.284s] Installing crane script to /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/crane/lib/crane
+[3.285s] writing list of installed files to '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane/install.log'
+[3.348s] Invoked command in '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/src/crane' returned '0': PYTHONPATH=/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/crane/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(.venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/crane build --build-base /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane/build install --record /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane/install.log --single-version-externally-managed install_data

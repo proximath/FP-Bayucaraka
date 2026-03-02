@@ -1,0 +1,2 @@
+/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/camera/lib/python3.10/site-packages/camera/__init__.py:20: SyntaxWarning: list indices must be integers or slices, not tuple; perhaps you missed a comma?
+  mtx = np.array([[942.45855405,   0.0,         618.69564463]

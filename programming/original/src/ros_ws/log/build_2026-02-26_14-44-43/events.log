@@ -1,0 +1,93 @@
+[0.000000] (-) TimerEvent: {}
+[0.001636] (camera) JobQueued: {'identifier': 'camera', 'dependencies': OrderedDict()}
+[0.002216] (crane) JobQueued: {'identifier': 'crane', 'dependencies': OrderedDict()}
+[0.002272] (crane_interface) JobQueued: {'identifier': 'crane_interface', 'dependencies': OrderedDict()}
+[0.002311] (dummy_crane) JobQueued: {'identifier': 'dummy_crane', 'dependencies': OrderedDict()}
+[0.002356] (camera) JobStarted: {'identifier': 'camera'}
+[0.018077] (crane) JobStarted: {'identifier': 'crane'}
+[0.028687] (crane_interface) JobStarted: {'identifier': 'crane_interface'}
+[0.036001] (dummy_crane) JobStarted: {'identifier': 'dummy_crane'}
+[0.099408] (-) TimerEvent: {}
+[0.199875] (-) TimerEvent: {}
+[0.300303] (-) TimerEvent: {}
+[0.400751] (-) TimerEvent: {}
+[0.501189] (-) TimerEvent: {}
+[0.601673] (-) TimerEvent: {}
+[0.702112] (-) TimerEvent: {}
+[0.802544] (-) TimerEvent: {}
+[0.903000] (-) TimerEvent: {}
+[0.969404] (crane_interface) JobProgress: {'identifier': 'crane_interface', 'progress': 'cmake'}
+[0.971209] (crane_interface) Command: {'cmd': ['/usr/bin/cmake', '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/src/crane_interface', '-DCMAKE_INSTALL_PREFIX=/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/install/crane_interface'], 'cwd': '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane_interface', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('PYTHON_BASIC_REPL', '1'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'putra-adnyana'), ('LC_TIME', 'id_ID.UTF-8'), ('XDG_SESSION_TYPE', 'wayland'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/putra-adnyana'), ('CHROME_DESKTOP', 'code.desktop'), ('OLDPWD', '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/src'), ('TERM_PROGRAM_VERSION', '1.109.3'), ('DESKTOP_SESSION', 'ubuntu'), ('NVM_BIN', '/home/putra-adnyana/.nvm/versions/node/v25.3.0/bin'), ('NVM_INC', '/home/putra-adnyana/.nvm/versions/node/v25.3.0/include/node'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('LC_MONETARY', 'id_ID.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('MANAGERPID', '1586'), ('PYDEVD_DISABLE_FILE_VALIDATION', '1'), ('SYSTEMD_EXEC_PID', '1755'), ('BUNDLED_DEBUGPY_PATH', '/home/putra-adnyana/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy'), ('IM_CONFIG_CHECK_ENV', '1'), ('VSCODE_PYTHON_AUTOACTIVATE_GUARD', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '2530'), ('NVM_DIR', '/home/putra-adnyana/.nvm'), ('IM_CONFIG_PHASE', '1'), ('WAYLAND_DISPLAY', 'wayland-0'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'putra-adnyana'), ('JOURNAL_STREAM', '8:19262'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'putra-adnyana'), ('TERM', 'xterm-256color'), ('GAZEBO_MODEL_PATH', '/home/putra-adnyana/ardupilot_gazebo/models'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('FC_FONTATIONS', '1'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/.venv/bin:/home/putra-adnyana/.config/Code/User/globalStorage/github.copilot-chat/debugCommand:/home/putra-adnyana/.config/Code/User/globalStorage/github.copilot-chat/copilotCli:/usr/local/go/bin:/usr/lib/ccache:/home/putra-adnyana/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/bin:/home/putra-adnyana/.local/share/pnpm:/opt/ros/humble/bin:/home/putra-adnyana/.nvm/versions/node/v25.3.0/bin:/usr/local/go/bin:/usr/lib/ccache:/home/putra-adnyana/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/putra-adnyana/.cargo/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/opt/nvim-linux-x86_64/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/scripts/noConfigScripts:/opt/nvim-linux-x86_64/bin:/home/putra-adnyana/.local/bin:/home/putra-adnyana/.local/bin'), ('SESSION_MANAGER', 'local/HYPE-7-AMD-X8:@/tmp/.ICE-unix/1707,unix/HYPE-7-AMD-X8:/tmp/.ICE-unix/1707'), ('INVOCATION_ID', '7918b20152dd496cb9adc23af9685ace'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'id_ID.UTF-8'), ('GNOME_SETUP_DISPLAY', ':1'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'wayland'), ('DISPLAY', ':0'), ('VSCODE_DEBUGPY_ADAPTER_ENDPOINTS', '/home/putra-adnyana/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/.noConfigDebugAdapterEndpoints/endpoint-333af1f06fb18685.txt'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('PYTHONSTARTUP', '/home/putra-adnyana/.config/Code/User/workspaceStorage/f58b5e6679ccfcfb1502c91677e9dfb3/ms-python.python/pythonrc.py'), ('LC_TELEPHONE', 'id_ID.UTF-8'), ('VIRTUAL_ENV_PROMPT', '(.venv)'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/.mutter-Xwaylandauth.BTGYK3'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-3b7521810e.sock'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('SHELL', '/bin/bash'), ('LC_NAME', 'id_ID.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'id_ID.UTF-8'), ('GAZEBO_RESOURCE_PATH', '/home/putra-adnyana/ardupilot_gazebo/worlds:/home/putra-adnyana/ardupilot_gazebo/worlds:'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('LC_IDENTIFICATION', 'id_ID.UTF-8'), ('VIRTUAL_ENV', '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/.venv'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane_interface'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('NVM_CD_FLAGS', ''), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'id_ID.UTF-8'), ('LC_PAPER', 'id_ID.UTF-8'), ('COLCON', '1'), ('PNPM_HOME', '/home/putra-adnyana/.local/share/pnpm'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[1.003147] (crane_interface) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[1.003462] (-) TimerEvent: {}
+[1.103828] (-) TimerEvent: {}
+[1.204252] (-) TimerEvent: {}
+[1.265995] (crane_interface) StdoutLine: {'line': b'-- Found std_srvs: 4.9.0 (/opt/ros/humble/share/std_srvs/cmake)\n'}
+[1.304392] (-) TimerEvent: {}
+[1.321993] (crane_interface) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[1.327252] (crane_interface) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[1.340447] (crane_interface) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[1.360778] (crane_interface) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[1.387596] (crane_interface) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[1.404536] (-) TimerEvent: {}
+[1.504976] (-) TimerEvent: {}
+[1.605485] (-) TimerEvent: {}
+[1.659148] (crane_interface) StderrLine: {'line': b'\x1b[31mCMake Error at /opt/ros/humble/share/rosidl_adapter/cmake/rosidl_adapt_interfaces.cmake:59 (message):\n'}
+[1.659643] (crane_interface) StderrLine: {'line': b'  \n'}
+[1.660013] (crane_interface) StderrLine: {'line': b'  execute_process(/home/putra-adnyana/kuliah/magang-bayucaraka/fp/.venv/bin/python3\n'}
+[1.660236] (crane_interface) StderrLine: {'line': b'  -m rosidl_adapter --package-name crane_interface --arguments-file\n'}
+[1.660461] (crane_interface) StderrLine: {'line': b'  /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane_interface/rosidl_adapter__arguments__crane_interface.json\n'}
+[1.660710] (crane_interface) StderrLine: {'line': b'  --output-dir\n'}
+[1.660937] (crane_interface) StderrLine: {'line': b'  /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane_interface/rosidl_adapter/crane_interface\n'}
+[1.661130] (crane_interface) StderrLine: {'line': b'  --output-file\n'}
+[1.661322] (crane_interface) StderrLine: {'line': b'  /home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane_interface/rosidl_adapter/crane_interface.idls)\n'}
+[1.661512] (crane_interface) StderrLine: {'line': b'  returned error code 1:\n'}
+[1.661740] (crane_interface) StderrLine: {'line': b'\n'}
+[1.661947] (crane_interface) StderrLine: {'line': b"  Error processing 'std_srvs/srv/Empty res' of\n"}
+[1.662137] (crane_interface) StderrLine: {'line': b"  'crane_interface/MoveTo_Response': 'std_srvs/srv/Empty'\n"}
+[1.662325] (crane_interface) StderrLine: {'line': b'\n'}
+[1.662514] (crane_interface) StderrLine: {'line': b'  Traceback (most recent call last):\n'}
+[1.662737] (crane_interface) StderrLine: {'line': b'\n'}
+[1.662939] (crane_interface) StderrLine: {'line': b'    File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main\n'}
+[1.663282] (crane_interface) StderrLine: {'line': b'      return _run_code(code, main_globals, None,\n'}
+[1.663450] (crane_interface) StderrLine: {'line': b'    File "/usr/lib/python3.10/runpy.py", line 86, in _run_code\n'}
+[1.663719] (crane_interface) StderrLine: {'line': b'      exec(code, run_globals)\n'}
+[1.663876] (crane_interface) StderrLine: {'line': b'    File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__main__.py", line 19, in <module>\n'}
+[1.664003] (crane_interface) StderrLine: {'line': b'      sys.exit(main())\n'}
+[1.664119] (crane_interface) StderrLine: {'line': b'    File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/main.py", line 53, in main\n'}
+[1.664232] (crane_interface) StderrLine: {'line': b'      abs_idl_file = convert_to_idl(\n'}
+[1.664345] (crane_interface) StderrLine: {'line': b'    File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__init__.py", line 24, in convert_to_idl\n'}
+[1.664479] (crane_interface) StderrLine: {'line': b'      return convert_srv_to_idl(\n'}
+[1.664598] (crane_interface) StderrLine: {'line': b'    File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/srv/__init__.py", line 28, in convert_srv_to_idl\n'}
+[1.664751] (crane_interface) StderrLine: {'line': b'      srv = parse_service_string(package_name, input_file.stem, content)\n'}
+[1.664871] (crane_interface) StderrLine: {'line': b'    File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/parser.py", line 863, in parse_service_string\n'}
+[1.664986] (crane_interface) StderrLine: {'line': b'      response_message = parse_message_string(\n'}
+[1.665096] (crane_interface) StderrLine: {'line': b'    File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/parser.py", line 520, in parse_message_string\n'}
+[1.665207] (crane_interface) StderrLine: {'line': b'      Type(type_string, context_package_name=pkg_name),\n'}
+[1.665314] (crane_interface) StderrLine: {'line': b'    File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/parser.py", line 277, in __init__\n'}
+[1.665422] (crane_interface) StderrLine: {'line': b'      super(Type, self).__init__(\n'}
+[1.665528] (crane_interface) StderrLine: {'line': b'    File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/parser.py", line 190, in __init__\n'}
+[1.665693] (crane_interface) StderrLine: {'line': b'      raise InvalidResourceName(type_string)\n'}
+[1.665830] (crane_interface) StderrLine: {'line': b'\n'}
+[1.665939] (crane_interface) StderrLine: {'line': b'  rosidl_adapter.parser.InvalidResourceName: std_srvs/srv/Empty\n'}
+[1.666045] (crane_interface) StderrLine: {'line': b'\n'}
+[1.666152] (crane_interface) StderrLine: {'line': b'Call Stack (most recent call first):\n'}
+[1.666372] (crane_interface) StderrLine: {'line': b'  /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:130 (rosidl_adapt_interfaces)\n'}
+[1.666521] (crane_interface) StderrLine: {'line': b'  CMakeLists.txt:15 (rosidl_generate_interfaces)\n'}
+[1.666667] (crane_interface) StderrLine: {'line': b'\n'}
+[1.666801] (crane_interface) StderrLine: {'line': b'\x1b[0m\n'}
+[1.666914] (crane_interface) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[1.667045] (crane_interface) StdoutLine: {'line': b'See also "/home/putra-adnyana/kuliah/magang-bayucaraka/fp/src/ros_ws/build/crane_interface/CMakeFiles/CMakeOutput.log".\n'}
+[1.671927] (crane_interface) CommandEnded: {'returncode': 1}
+[1.705649] (-) TimerEvent: {}
+[1.722532] (crane_interface) JobEnded: {'identifier': 'crane_interface', 'rc': 1}
+[1.805786] (-) TimerEvent: {}
+[1.906208] (-) TimerEvent: {}
+[2.006653] (-) TimerEvent: {}
+[2.107075] (-) TimerEvent: {}
+[2.207506] (-) TimerEvent: {}
+[2.307980] (-) TimerEvent: {}
+[2.355260] (camera) JobEnded: {'identifier': 'camera', 'rc': 'SIGINT'}
+[2.365679] (crane) JobEnded: {'identifier': 'crane', 'rc': 'SIGINT'}
+[2.378561] (dummy_crane) JobEnded: {'identifier': 'dummy_crane', 'rc': 'SIGINT'}
+[2.390212] (-) EventReactorShutdown: {}

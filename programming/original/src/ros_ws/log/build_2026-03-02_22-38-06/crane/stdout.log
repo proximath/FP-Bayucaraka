@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/crane/crane.egg-info/PKG-INFO
+writing dependency_links to ../../build/crane/crane.egg-info/dependency_links.txt
+writing entry points to ../../build/crane/crane.egg-info/entry_points.txt
+writing requirements to ../../build/crane/crane.egg-info/requires.txt
+writing top-level names to ../../build/crane/crane.egg-info/top_level.txt
+reading manifest file '../../build/crane/crane.egg-info/SOURCES.txt'
+writing manifest file '../../build/crane/crane.egg-info/SOURCES.txt'
+running build
+running build_py
+copying crane/old.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/build/crane/build/lib/crane
+copying crane/__init__.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/build/crane/build/lib/crane
+running install
+running install_lib
+copying /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/build/crane/build/lib/crane/old.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/install/crane/lib/python3.10/site-packages/crane
+copying /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/build/crane/build/lib/crane/__init__.py -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/install/crane/lib/python3.10/site-packages/crane
+byte-compiling /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/install/crane/lib/python3.10/site-packages/crane/old.py to old.cpython-310.pyc
+byte-compiling /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/install/crane/lib/python3.10/site-packages/crane/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/crane -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/install/crane/share/ament_index/resource_index/packages
+copying package.xml -> /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/install/crane/share/crane
+running install_egg_info
+removing '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/install/crane/lib/python3.10/site-packages/crane-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/crane/crane.egg-info to /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/install/crane/lib/python3.10/site-packages/crane-0.0.0-py3.10.egg-info
+running install_scripts
+Installing crane script to /home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/install/crane/lib/crane
+writing list of installed files to '/home/putra-adnyana/kuliah/magang-bayucaraka/FP-Bayucaraka/programming/original/src/ros_ws/build/crane/install.log'
